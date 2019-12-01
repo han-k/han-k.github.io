@@ -7,3 +7,6 @@ next step is to make a generic index.html file as my base, merge to the master (
 
 **edit 2**
 card placeholder [here](card.html)
+
+**edit 3**
+pushing from git desktop & editted with atom
