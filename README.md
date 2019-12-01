@@ -6,4 +6,4 @@ i think went into the desktop client, opened the card brnach, deleted all files,
 next step is to make a generic index.html file as my base, merge to the master (since master is the only branch that will push to the website), which should drop the jekyll blog (which again was backed up already), and set the stage for a clean start.
 
 **edit 2**
-card placeholder [here](index.html)
+card placeholder [here](card.html)
